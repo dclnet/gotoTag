@@ -1,0 +1,65 @@
+[
+  { "keys": ["super+."], "command": "goto_tag", "args": {
+    "func": "tag"
+  }},
+  { "keys": ["ctrl+1"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 0
+  }},
+  { "keys": ["ctrl+2"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 1
+  }},
+  { "keys": ["ctrl+3"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 2
+  }},
+  { "keys": ["ctrl+4"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 3
+  }},
+  { "keys": ["ctrl+5"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 4
+  }},
+  { "keys": ["ctrl+6"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 5
+  }},
+  { "keys": ["ctrl+7"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 6
+  }},
+  { "keys": ["ctrl+8"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 7
+  }},
+  { "keys": ["ctrl+9"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 8
+  }},
+  { "keys": ["ctrl+a"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 9
+  }},
+  { "keys": ["ctrl+b"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 10
+  }},
+  { "keys": ["ctrl+c"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 11
+  }},
+  { "keys": ["ctrl+d"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 12
+  }},
+  { "keys": ["ctrl+e"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 13
+  }},
+  { "keys": ["ctrl+f"], "command": "goto_tag", "args": {
+    "func": "goto",
+    "tagId": 14
+  }}
+]
