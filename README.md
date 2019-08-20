@@ -13,4 +13,8 @@ Win:     win+.
 Mac/Win: ctrl+TagName  
 Example: ctrl+1, ctrl+2, ctrl+3,.......ctrl+a, ctrl+b...  
 
+#### Remove all Tag（删除全部标签）  
+Mac: command+shift+.  
+Win: win+shift+.
+
 ![manual](https://raw.githubusercontent.com/dclnet/gototag/master/gotoTag.png) 
