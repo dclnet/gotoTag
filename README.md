@@ -10,8 +10,10 @@ Mac:    command+.
 Win:     win+.  
 
 #### Jump to the Tag location（跳转到指定标签处）  
-Mac/Win: ctrl+TagName  
-Example: ctrl+1, ctrl+2, ctrl+3,.......ctrl+a, ctrl+b...  
+Mac/Win: alt+shift+TagName  
+Example: alt+shift+1, alt+shift+2, alt+shift+3,...alt+shift+f
+
+(alt+shift+e have some problems)
 
 #### Remove all Tag（删除全部标签）  
 Mac: command+shift+.  
