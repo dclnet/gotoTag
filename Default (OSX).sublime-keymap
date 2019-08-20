@@ -2,6 +2,9 @@
   { "keys": ["super+."], "command": "goto_tag", "args": {
     "func": "tag"
   }},
+  { "keys": ["super+shift+."], "command": "goto_tag", "args": {
+    "func": "clear"
+  }},
 	{ "keys": ["ctrl+1"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 0
