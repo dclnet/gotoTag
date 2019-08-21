@@ -5,63 +5,63 @@
   { "keys": ["super+shift+."], "command": "goto_tag", "args": {
     "func": "clear"
   }},
-	{ "keys": ["shift+alt+1"], "command": "goto_tag", "args": {
+	{ "keys": ["alt+shift+1"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 0
   }},
-  { "keys": ["shift+alt+2"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+2"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 1
   }},
-  { "keys": ["shift+alt+3"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+3"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 2
   }},
-  { "keys": ["shift+alt+4"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+4"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 3
   }},
-  { "keys": ["shift+alt+5"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+5"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 4
   }},
-  { "keys": ["shift+alt+6"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+6"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 5
   }},
-  { "keys": ["shift+alt+7"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+7"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 6
   }},
-  { "keys": ["shift+alt+8"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+8"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 7
   }},
-  { "keys": ["shift+alt+9"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+9"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 8
   }},
-  { "keys": ["shift+alt+a"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+a"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 9
   }},
-  { "keys": ["shift+alt+b"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+b"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 10
   }},
-  { "keys": ["shift+alt+c"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+c"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 11
   }},
-  { "keys": ["shift+alt+d"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+d"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 12
   }},
-  { "keys": ["shift+alt+e"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+e"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 13
   }},
-  { "keys": ["shift+alt+f"], "command": "goto_tag", "args": {
+  { "keys": ["alt+shift+f"], "command": "goto_tag", "args": {
     "func": "goto",
     "tagId": 14
   }}
