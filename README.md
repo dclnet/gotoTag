@@ -10,16 +10,11 @@ Mac:    command+.
 Win:     win+.  
 
 #### Jump to the Tag location（跳转到指定标签处）  
-Mac: alt+shift+TagId  
-Example: alt+shift+1, alt+shift+2, alt+shift+3,...alt+shift+f  
-
-Win: ctrl+alt+TagId  
+Mac/Win: ctrl+alt+TagId  
 Example: ctrl+alt+1, ctrl+alt+2, ctrl+alt+3,...ctrl+alt+f  
-
-(Mac: alt+shift+e have some problems)  
 
 #### Remove all Tag（删除全部标签）  
 Mac: command+shift+.  
 Win: win+shift+.  
 
-![manual](https://raw.githubusercontent.com/dclnet/gototag/master/gotoTag.png) 
+![manual](https://raw.githubusercontent.com/dclnet/gotoTag/master/gotoTag.png) 
