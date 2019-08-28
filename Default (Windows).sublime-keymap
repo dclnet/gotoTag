@@ -1,5 +1,5 @@
 [
-  { "keys": ["super+."], "command": "goto_tag", "args": {
+  { "keys": ["f8"], "command": "goto_tag", "args": {
     "func": "tag"
   }},
   { "keys": ["ctrl+alt+."], "command": "goto_tag", "args": {
