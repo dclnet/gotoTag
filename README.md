@@ -6,8 +6,8 @@ Up to 15 labels；最多15个标签:
 1，2，3，4，5，……9，a,b,c,d,e,f
 
 #### Add/Delete a Tag (添加/删除一个标签)  
-Mac:    F8   
-Win:    win+.  
+Mac:    command+.   
+Win:    F8  
 
 #### Jump to the Tag location（跳转到指定标签处）  
 Mac/Win: ctrl+alt+TagId  
