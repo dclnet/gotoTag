@@ -5,13 +5,12 @@ def getKey(id):
     return ''.join(["gtmark_", str(id)])
 
 def indexIcon(index):
-    return "Packages/gototag/icon/number_{0}.png".format(index)
+    return "Packages/{0}/icon/number_{1}.png".format(__package__, index)
 
 def totalCount():
-    return 15
+    return 16
 
 class GotoTagCommand(sublime_plugin.TextCommand):
-
   def run(self, edit, func = '', tagId = 0):
     if func == 'goto':
         self.goto(tagId)
@@ -37,7 +36,7 @@ class GotoTagCommand(sublime_plugin.TextCommand):
             emptyKey = key
             emptyIndex = i
         if regions and len(regions) >= 1:
-            if currentLine.contains(regions[0]) or regions[0].contains(currentLine):
+            if regions[0].intersects(currentLine):
                 self.view.erase_regions(key)
                 return
     if emptyKey:
